@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIA_Encoder", "CIA_Encoder\CIA_Encoder.csproj", "{3B54BC20-16C5-467E-BA64-9A59C602D70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B54BC20-16C5-467E-BA64-9A59C602D70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B54BC20-16C5-467E-BA64-9A59C602D70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B54BC20-16C5-467E-BA64-9A59C602D70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B54BC20-16C5-467E-BA64-9A59C602D70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E02A87-6BB9-4A6B-8DA1-2F2363C447F1}
+	EndGlobalSection
+EndGlobal

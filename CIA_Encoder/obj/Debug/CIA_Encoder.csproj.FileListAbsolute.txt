@@ -1,0 +1,10 @@
+C:\Users\16627\source\repos\CIA_Encoder\CIA_Encoder\bin\Debug\CIA_Encoder.exe.config
+C:\Users\16627\source\repos\CIA_Encoder\CIA_Encoder\bin\Debug\CIA_Encoder.exe
+C:\Users\16627\source\repos\CIA_Encoder\CIA_Encoder\bin\Debug\CIA_Encoder.pdb
+C:\Users\16627\source\repos\CIA_Encoder\CIA_Encoder\obj\Debug\CIA_Encoder.csprojAssemblyReference.cache
+C:\Users\16627\source\repos\CIA_Encoder\CIA_Encoder\obj\Debug\CIA_Encoder.Form1.resources
+C:\Users\16627\source\repos\CIA_Encoder\CIA_Encoder\obj\Debug\CIA_Encoder.Properties.Resources.resources
+C:\Users\16627\source\repos\CIA_Encoder\CIA_Encoder\obj\Debug\CIA_Encoder.csproj.GenerateResource.cache
+C:\Users\16627\source\repos\CIA_Encoder\CIA_Encoder\obj\Debug\CIA_Encoder.csproj.CoreCompileInputs.cache
+C:\Users\16627\source\repos\CIA_Encoder\CIA_Encoder\obj\Debug\CIA_Encoder.exe
+C:\Users\16627\source\repos\CIA_Encoder\CIA_Encoder\obj\Debug\CIA_Encoder.pdb
